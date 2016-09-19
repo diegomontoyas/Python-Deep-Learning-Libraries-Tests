@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/TensorFlow Tutorial.iml" filepath="$PROJECT_DIR$/.idea/TensorFlow Tutorial.iml" />
+      <module fileurl="file://$USER_HOME$/Repositories/Deep Learning Libraries Tests/.idea/Deep Learning Libraries Tests.iml" filepath="$USER_HOME$/Repositories/Deep Learning Libraries Tests/.idea/Deep Learning Libraries Tests.iml" />
     </modules>
   </component>
 </project>
